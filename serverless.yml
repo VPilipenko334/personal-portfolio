@@ -1,0 +1,9 @@
+component: website
+org: vpilipenko
+name: personal-portfolio
+inputs:
+  src:
+    src: ./
+    hook: npm run build
+    dist: ./build
+  region: us-east-1

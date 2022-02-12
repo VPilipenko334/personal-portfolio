@@ -9,7 +9,7 @@ const HomePage = () => {
         <div className="terminal-outer">
             <div className="terminal-inner">
                 <TopBar/>
-                
+
                 <NavBar/>
                     <div className="outer-homepage-container">
                         <div className="about-me">
@@ -30,5 +30,4 @@ const HomePage = () => {
                 </div>
     )
 }
-
 export default HomePage;

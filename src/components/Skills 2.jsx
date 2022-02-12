@@ -13,7 +13,7 @@ const Skills = () => {
                 <NavBar/>
 
                 <ul class="skills-list">
-                    <li className="skill-icon">
+                    <li class="skill-icon">
                         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" className="skill-image" />
                         <p  id="icon-text">JavaScript</p>
                     </li>
