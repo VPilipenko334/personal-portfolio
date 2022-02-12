@@ -8,13 +8,13 @@ const Projects = () => {
     return (
         <div className="terminal-outer">
             <div className="terminal-inner">
-                    <TopBar/>
-                    <NavBar/>
-                    <div className="heading-top">Projects</div>
-                    
-                    <div className="info" id="heading1">
-                        ~/InAFlash
-                    </div>
+                <TopBar />
+                <NavBar />
+                <div className="heading-top">Projects</div>
+
+                <div className="info" id="heading1">
+                    ~/InAFlash
+                </div>
 
                 <div className="info-inner">
                     <a href="https://inaflash.herokuapp.com/#/" target="_blank"><img src="/InAFlash.png" className="project-pictures" /></a>
@@ -23,7 +23,7 @@ const Projects = () => {
                     <b><i>Frontend Frameworks:</i></b> React, Redux, AJAX, Webpck, Google Maps API <br />
                     <b><i>Backend Frameworks:</i></b> Ruby on Rails, PostgrSQL, AWS S3, BCrypt  <br />
 
-                    <br/>
+                    <br />
 
                     <a href="https://github.com/VPilipenko334/InAFLASH" target="_blank" id="link"><i class="fa-brands fa-github fa-3x" id="social-link"></i></a>
                     &nbsp; &nbsp;
@@ -47,7 +47,7 @@ const Projects = () => {
                     <a href="https://github.com/internetmara/GreenMarket/" target="_blank" id="link"><i class="fa-brands fa-github fa-3x" id="social-link"></i></a>
                     &nbsp; &nbsp;
                     <a href="https://the-greenmarket.herokuapp.com/" target="_blank" id="link"><i class="fa-solid fa-arrow-up-right-from-square fa-3x" id="social-link"></i></a>
-                <br />
+                    <br />
 
                 </div>
 
@@ -70,21 +70,21 @@ const Projects = () => {
                     <a href="https://github.com/VPilipenko334/coffeehouse-card-catch" target="_blank" id="link"><i class="fa-brands fa-github fa-3x" id="social-link"></i></a>
                     &nbsp; &nbsp;
                     <a href="https://vpilipenko334.github.io/coffeehouse-card-catch/" target="_blank" id="link"><i class="fa-solid fa-arrow-up-right-from-square fa-3x" id="social-link"></i></a>
-                        
+
                 </div>
 
-                <br/>
+                <br />
 
                 <div className="info" id="heading1">
                     ~/Portfolio
                 </div>
 
                 <div className="info-inner">
-                    <Link to="/"><img src="portfolio.png" className="project-pictures"/></Link>
+                    <Link to="/"><img src="portfolio.png" className="project-pictures" /></Link>
                     <p>
                         The portfolio website that you are reading this on is completely made by me!
                         This is a very special project because once I finished bootcamp, I had sketched out the idea
-                        and design for how I wanted to build out my portfolio. I am so happy to say that it's finished now and one of my 
+                        and design for how I wanted to build out my portfolio. I am so happy to say that it's finished now and one of my
                         favorite things that I've ever built - visually and how it's coded out!
                     </p>
 
@@ -94,7 +94,7 @@ const Projects = () => {
 
 
                 <div className="heading-top">
-                    Weblow 
+                    Weblow
                 </div>
 
                 <div className="info" id="heading2">
@@ -103,13 +103,13 @@ const Projects = () => {
 
                 <div className="info-inner">
                     <a href="https://www.recruitingfromscratch.com/" target="_blank"><img src="rfs.png" className="project-pictures" /></a>
-                        <p>
-                            Made with webflow -- an online visual editor platform allows users 
-                            to design, edit and build a website, I came up with the original concept for the design, 
-                            edited with CSS and HTML and incorporated RFS' data using a SEO.
-                        </p>
+                    <p>
+                        Made with webflow -- an online visual editor platform allows users
+                        to design, edit and build a website, I came up with the original concept for the design,
+                        edited with CSS and HTML and incorporated RFS' data using a SEO.
+                    </p>
 
-                        <b><i>Made using:</i></b> Webflow, HTML, CSS<br /><br />
+                    <b><i>Made using:</i></b> Webflow, HTML, CSS<br /><br />
                 </div>
             </div>
         </div>
