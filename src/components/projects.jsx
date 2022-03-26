@@ -20,7 +20,7 @@ const AboutMe = () => {
                     </div>
 
                 <div className="info-inner">
-                    <a href="https://inaflash.herokuapp.com/#/" target="_blank"><img src="InAFlash.png" className="project-pictures" /></a>
+                    <a href="https://inaflash.herokuapp.com/#/" target="_blank"><img src="https://inaflash.herokuapp.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBNdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0a7b789a193357d5c79bfbf887e8a74637171cb6/InAFlash.png" className="project-pictures" /></a>
                     <p>InAFlash, a 500px clone, is an online photo-sharing platform which allows users to create accounts, upload, view, and share photos.  </p>
 
                     <b><i>Frontend Frameworks:</i></b> React, Redux, AJAX, Webpck, Google Maps API <br />
@@ -40,7 +40,7 @@ const AboutMe = () => {
                 </div>
 
                 <div className="info-inner">
-                    <a href="https://the-greenmarket.herokuapp.com/" target="_blank"><img src="GreenMarket.png" className="project-pictures" /></a>
+                    <a href="https://the-greenmarket.herokuapp.com/" target="_blank"><img src="https://inaflash.herokuapp.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBOdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9ee468d13ccec8eae5bebf7c6304f9be6c10bbfa/GreenMarket.png" className="project-pictures" /></a>
                     <p>A MERN stack online directory/ application which allows users to create accounts, browse, purchase and locate local goods and services.  </p>
 
                     <b><i>Frontend Frameworks:</i></b> React, Redux, Axiox, Sass, Webpack<br />
@@ -61,7 +61,7 @@ const AboutMe = () => {
                 </div>
 
                 <div className="info-inner">
-                    <a href="https://vpilipenko334.github.io/coffeehouse-card-catch/" target="_blank"><img src="card_catch3.png" className="project-pictures" /></a>
+                    <a href="https://vpilipenko334.github.io/coffeehouse-card-catch/" target="_blank"><img src="https://inaflash.herokuapp.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBPUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bcf5780e30aff5aed2d6f5d7a76ca643a9410492/card_catch.png" className="project-pictures" /></a>
                     <p>CoffeeHouse Card Catch is an interactive game that allows players to match cards based on coffee ingredients with one
                         another.</p>
 
@@ -83,7 +83,7 @@ const AboutMe = () => {
                 </div>
 
                 <div className="info-inner">
-                    <Link to="/"><img src="portfolio.png" className="project-pictures"/></Link>
+                    <Link to="/"><img src="https://inaflash.herokuapp.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBPdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c6dd11521ee052ac680e0bce17c5af297ea55544/portfolio.png" className="project-pictures"/></Link>
                     <p>
                         The portfolio website that you are reading this on is completely made by me!
                         This is a very special project because once I finished bootcamp, I had sketched out the idea
@@ -106,7 +106,7 @@ const AboutMe = () => {
                 </div>
 
                 <div className="info-inner">
-                    <a href="https://www.recruitingfromscratch.com/" target="_blank"><img src="rfs.png" className="project-pictures" /></a>
+                    <a href="https://www.recruitingfromscratch.com/" target="_blank"><img src="https://inaflash.herokuapp.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBQUT09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dc7e869833ddaf843182cb75bc468cc7904d565d/rfs.png" className="project-pictures" /></a>
                         <p>
                             Made with webflow -- an online visual editor platform allows users 
                             to design, edit and build a website, I came up with the original concept for the design, 
