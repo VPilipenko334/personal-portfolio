@@ -13,6 +13,8 @@ const Contact = () => {
                 email: veronika.pilipenko@gmail.com 
                 <br/>
                 phone number: (646)-283-6114
+                <br/>
+                {/* <Contact target="_blank" to={{pathname:"veronika.pilipenko@gmail.com"}}></Contact> */}
             </div>
         </div>
     )

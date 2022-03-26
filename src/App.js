@@ -6,12 +6,12 @@ import './stylesheets/Projects.css';
 import './stylesheets/HomePage.css';
 import './stylesheets/Skills.css';
 import './stylesheets/Resume.css';
-import AboutMe from './components/about_me';
-import Projects from './components/projects';
-import Skills from './components/skills';
-import Resume from './components/resume';
-import Contact from './components/contact';
-import HomePage from './components/home_page';
+import AboutMe from './components/AboutMe';
+import Projects from './components/Projects';
+import Skills from './components/Skills';
+import Resume from './components/Resume';
+import Contact from './components/Contact';
+import HomePage from './components/HomePage';
 
 function App() {
   return (
