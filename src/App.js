@@ -4,6 +4,8 @@ import './stylesheets/App.css';
 import './stylesheets/About.css';
 import './stylesheets/Projects.css';
 import './stylesheets/HomePage.css';
+import './stylesheets/Skills.css';
+import './stylesheets/Resume.css';
 import AboutMe from './components/about_me';
 import Projects from './components/projects';
 import Skills from './components/skills';

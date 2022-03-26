@@ -13,3 +13,13 @@
     padding: 3px; 
     box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.2);
 }
+
+/* .outer-homepage-container {
+    display: flex; 
+    justify-content: center;
+    align-items: center;
+} */
+
+.about-me {
+    text-align: center;
+}

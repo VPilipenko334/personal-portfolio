@@ -18,6 +18,14 @@ const HomePage = () => {
                     <Link to="/resume" className="homepage-links">Resume</Link>
                     <Link to="/contact" className="homepage-links">Contact</Link>
                 </div>
+                <div className="outer-homepage-container">
+                    <div className="about-me">
+                    <h1>Hi, I'm Veronika Pilipenko.</h1>
+                    <h2>A fullstack software engineer with a passion for creating.</h2>
+                    <h3>veronika.pilipenko@gmail.com</h3>
+                    {/* <p> This portfolio was created by me using React!</p> */}
+                    </div>
+                </div>
             </div>
         </div>
     )

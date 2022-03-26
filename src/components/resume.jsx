@@ -10,8 +10,9 @@ const Resume = () => {
                     <button className="yellow"></button>
                     <button className="green"></button>
                 </div>
-
-                hi
+                Click below to download my resume:
+                <br/>
+                <a href="Veronika Pilipenko Resume.pdf" target="_blank" className="resume">Resume</a>
             </div>
         </div>
     )

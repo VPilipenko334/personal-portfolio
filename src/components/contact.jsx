@@ -10,8 +10,9 @@ const Contact = () => {
                     <button className="yellow"></button>
                     <button className="green"></button>
                 </div>
-
-                hi
+                email: veronika.pilipenko@gmail.com 
+                <br/>
+                phone number: (646)-283-6114
             </div>
         </div>
     )
