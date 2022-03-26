@@ -2,10 +2,10 @@
     text-decoration: none;
     color: black;
     background-color: #F0ECF7; 
-    margin: 20px; 
+    margin: 14px; 
     padding: 1px; 
-    /* box-shadow: 0 0 10px rgba(0,0,0,0.25); 
-    clip-path: inset(0px -15px 0px 0px);  */
+    box-shadow: 0 0 10px rgba(0,0,0,0.25); 
+    clip-path: inset(0px -15px 0px 0px); 
     font-size: 12px;
     text-align: center;
     font-weight: bold;
@@ -21,6 +21,39 @@
 
 .about-me {
     text-align: center;
+}
+
+h1 {
+    color: white; 
+    font-size: 30px;
+    /* font-weight: 400; */
+}
+
+h2 {
+    color: white;  
+    font-weight: 400;
+    font-size: 20px; 
+}
+
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
+}
+
+
+h3 {
+    color: white;  
+    font-weight: 400;
+}
+
+p {
+    color: white; 
 }
 
 .socials {
@@ -43,7 +76,7 @@
 }
 
 #closing {
-    margin-left: 5px;
+    /* margin-left: 5px; */
     /* color: #38363677; */
     text-shadow: 0 0 5px rgba(33, 31, 31, 0.61);
 }

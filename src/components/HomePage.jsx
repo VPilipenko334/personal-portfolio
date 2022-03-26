@@ -13,11 +13,11 @@ const HomePage = () => {
                 </div>
                 <div className="tab-links">
                     <div className="background">
-                        <Link to="/about" className="homepage-links">about me<i class="fa-regular fa-rectangle-xmark" id="closing"></i></Link>
-                        <Link to="/projects" className="homepage-links">projects<i class="fa-regular fa-rectangle-xmark" id="closing"></i></Link>
-                        <Link to="/skills" className="homepage-links">skills<i class="fa-regular fa-rectangle-xmark" id="closing"></i></Link>
-                        <Link to="/resume" className="homepage-links">resume<i class="fa-regular fa-rectangle-xmark" id="closing"></i></Link>
-                        <Link to="/contact" className="homepage-links">contact<i class="fa-regular fa-rectangle-xmark" id="closing"></i></Link>
+                        <Link to="/about" className="homepage-links">about me &nbsp; <i className="fa-regular fa-rectangle-xmark" id="closing"></i></Link>
+                        <Link to="/projects" className="homepage-links">projects &nbsp;<i className="fa-regular fa-rectangle-xmark" id="closing"></i></Link>
+                        <Link to="/skills" className="homepage-links">skills &nbsp;<i className="fa-regular fa-rectangle-xmark" id="closing"></i></Link>
+                        <Link to="/resume" className="homepage-links">resume &nbsp;<i className="fa-regular fa-rectangle-xmark" id="closing"></i></Link>
+                        <Link to="/contact" className="homepage-links">contact &nbsp;<i className="fa-regular fa-rectangle-xmark" id="closing"></i></Link>
                     </div>
                 </div>
                 <div className="outer-homepage-container">
