@@ -1,4 +1,40 @@
-.resume {
+.banner-link {
     text-decoration: none;
-    color: pink;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+
+.banner-link-outer {
+    text-align: center;
+    background-color: grey;
+    color:white;
+    cursor: pointer;
+    text-shadow: 0 0 5px rgba(10, 0, 193, 0.747);
+}
+
+.banner-link-outer:hover {
+    text-shadow: 0 0 5px rgba(210, 6, 6, 0.747);
+}
+
+.heading-top {
+    font-size: 17px;
+    margin:3px;
+    font-weight: bolder;
+    padding: 3px;
+}
+
+.heading {
+    font-size: 15px;
+    margin:3px;
+    font-weight: bold;
+    padding: 3px; 
+}
+
+.heading:hover {
+    text-shadow: 0 0 5px rgba(0, 193, 13, 0.747);
+}
+
+.heading-top:hover {
+    text-shadow: 0 0 5px rgba(0, 193, 13, 0.747);
 }
