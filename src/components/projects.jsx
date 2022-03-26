@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import NavBar from './NavBar'
 
-const AboutMe = () => {
+const Projects = () => {
 
     return (
         <div className="terminal-outer">
@@ -120,4 +120,4 @@ const AboutMe = () => {
     )
 }
 
-export default AboutMe;
+export default Projects;
