@@ -16,12 +16,12 @@ const Resume = () => {
                 <NavBar/>
 
                 <div className="banner-link-outer">
-                    <a href="Veronika Pilipenko Resume.pdf" target="_blank" className="banner-link" id="link">🧡Click here to download my resume🧡</a>
+                    <a href="Veronika Pilipenko Resume.pdf" target="_blank" className="banner-link" id="link">🧡 Click here to download my resume 🧡</a>
                 </div>
 
                 <div className="work-experience">
                     <div className="heading-top">Work Experience:</div>
-                        <div className="heading">Vault Health</div>
+                        <div className="heading-top">Vault Health</div>
                             <div className="info" id="heading1">
                                 ~Training-Lead/Customer-Experience-Associate
                             </div>
@@ -32,7 +32,7 @@ const Resume = () => {
                                     🐸Proficiently worked with technologies such as Slack, Zoom, Kustomer, EMR, Tableau, TalkDesk, and Salesforce<br />
                                 </p>
 
-                        <div className="heading">Go H20 Swimming</div>
+                        <div className="heading-top">Go H20 Swimming</div>
                             <div className="info" id="heading2">
                                 ~Founder/Main-Swim-Instructor
                             </div>
@@ -46,7 +46,7 @@ const Resume = () => {
 
                 </div>
                 <div className="skills">
-                    <div className="heading">Skills:</div>
+                    <div className="heading-top">Skills:</div>
                     <p className="info-inner">
                         JavaScript, React, Redux, HTML, CSS, Ruby, Ruby on Rails,
                          Mongoose, MongoDB, Node.js, Express.js, SQL, SQLite3, 
@@ -57,7 +57,7 @@ const Resume = () => {
                 </div>
                 
                 <div className="languages">
-                    <div className="heading">Languages:</div>
+                    <div className="heading-top">Languages:</div>
                         <p className="info-inner">
                         English, Russian, Spanish(learning)</p>
                 </div>

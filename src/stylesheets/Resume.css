@@ -1,6 +1,6 @@
 .banner-link {
     text-decoration: none;
-    font-size: 12px;
+    /* font-size: 12px; */
     font-weight: bold;
 }
 
@@ -10,6 +10,7 @@
     background-color: grey;
     color:white;
     cursor: pointer;
+    padding: 5px;
     text-shadow: 0 0 5px rgba(10, 0, 193, 0.747);
 }
 
@@ -18,7 +19,7 @@
 }
 
 .heading-top {
-    font-size: 17px;
+    font-size: 25px;
     margin:3px;
     font-weight: bolder;
     padding: 3px;

@@ -15,13 +15,13 @@ body {
 
 .terminal-tabs { 
     background-color: #f0ecf7; 
-    height: 30px;
+    height: 35px;
 }
 
 .terminal-inner {
-    height: 380px; 
+    height: 500px; 
     overflow: auto;
-    width: 555px; 
+    width: 725px; 
     background-color: #282a36;
     border-radius: 3%;
     box-shadow: 0px 8px 16px 0px rgba(29, 28, 28, 0.2);
@@ -30,8 +30,8 @@ body {
 }
 
 .red {
-    width: 13px;
-    height: 13px;
+    width: 15px;
+    height: 15px;
     background: #fe5f57;
     border-radius: 50%;
     padding: 5px;
@@ -43,8 +43,8 @@ body {
 }
 
 .yellow {
-    width: 13px;
-    height: 13px;
+    width: 15px;
+    height: 15px;
     background: #febc2f;
     border-radius: 50%;
     padding: 5px;
@@ -55,8 +55,8 @@ body {
 }
 
 .green {
-    width: 13px;
-    height: 13px;
+    width: 15px;
+    height: 15px;
     background: #28c840;
     border-radius: 50%;
     padding: 5px;
@@ -69,7 +69,7 @@ body {
 .info {
     color: #a5f8ff;
     font-weight: bold;
-    font-size: 12.5px; 
+    /* font-size: 14px;  */
     overflow: auto;
     margin: 1px; 
     margin-top: 3px; 
@@ -98,7 +98,6 @@ body {
 
 .info-inner {
     color: white; 
-    font-size: 12.5px;
     overflow: auto;
     margin: 1px; 
 }

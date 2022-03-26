@@ -97,7 +97,7 @@ const Projects = () => {
                 </div>
 
 
-                <div className="heading">
+                <div className="heading-top">
                     Weblow 
                 </div>
 

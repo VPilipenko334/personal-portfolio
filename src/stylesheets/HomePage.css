@@ -6,7 +6,7 @@
     padding: 1px; 
     /* box-shadow: 0 0 10px rgba(0,0,0,0.25); 
     clip-path: inset(0px -15px 0px 0px);  */
-    font-size: 12px;
+    /* font-size: 15px; */
     text-align: center;
     font-weight: bold;
 }
@@ -18,10 +18,10 @@
 
 .tab-links {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     background-color: #F0ECF7; 
     box-shadow: 0 0 10px rgba(0,0,0,0.25); 
-    padding: 3px;
+    padding: 5px;
 }
 
 .about-me {
