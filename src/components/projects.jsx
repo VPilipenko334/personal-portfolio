@@ -1,12 +1,20 @@
 import React from "react";
 
-const Projects = () => {
+const AboutMe = () => {
 
     return (
-        <div>
-            <h1>This is the Projects page</h1>
+        <div className="terminal-outer">
+            <div className="terminal-inner">
+                <div className="terminal-tabs">
+                    <button className="red"></button>
+                    <button className="yellow"></button>
+                    <button className="green"></button>
+                </div>
+
+                hi
+            </div>
         </div>
     )
 }
 
-export default Projects;
+export default AboutMe;

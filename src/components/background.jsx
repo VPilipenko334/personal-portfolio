@@ -1,7 +1,7 @@
 import React from "react";
 
-const Contact = () => {
-
+const Background = () => {
+    
     return (
         <div className="terminal-outer">
             <div className="terminal-inner">
@@ -10,11 +10,9 @@ const Contact = () => {
                     <button className="yellow"></button>
                     <button className="green"></button>
                 </div>
-
-                hi
             </div>
         </div>
     )
 }
 
-export default Contact;
+export default Background;
