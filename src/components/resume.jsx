@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import NavBar from "./NavBar";
 
 const Resume = () => {
 
@@ -11,6 +12,9 @@ const Resume = () => {
                     <button className="yellow"></button>
                     <button className="green"></button>
                 </div>
+
+                <NavBar/>
+
                 Click below to download my resume:
                 <br/>
                 <a href="Veronika Pilipenko Resume.pdf" target="_blank" className="resume">Resume</a>

@@ -1,5 +1,6 @@
 import React from "react";
 import { Routes, Route, Link } from "react-router-dom";
+import NavBar from "./NavBar";
 
 const AboutMe = () => {
 
@@ -11,6 +12,7 @@ const AboutMe = () => {
                     <button className="yellow"></button>
                     <button className="green"></button>
                 </div>
+                <NavBar/>
 
             <div className="info" id="heading1">
                 ~/Desktop/Portfolio/About

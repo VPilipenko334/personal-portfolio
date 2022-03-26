@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from 'react-router-dom';
+import NavBar from "./NavBar";
 
 const Skills = () => {
 
@@ -11,6 +12,8 @@ const Skills = () => {
                     <button className="yellow"></button>
                     <button className="green"></button>
                 </div>
+
+                <NavBar/>
 
                 <ul class="skills-list">
                     <li class="skill-icon">

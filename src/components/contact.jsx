@@ -1,5 +1,6 @@
 import React from "react";
 import { Routes, Route, Link } from "react-router-dom";
+import NavBar from "./NavBar";
 
 const Contact = () => {
 
@@ -11,6 +12,9 @@ const Contact = () => {
                     <button className="yellow"></button>
                     <button className="green"></button>
                 </div>
+
+                <NavBar/>
+
                 email: veronika.pilipenko@gmail.com 
                 <br/>
                 phone number: (646)-283-6114
