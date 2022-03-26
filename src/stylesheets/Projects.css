@@ -10,3 +10,7 @@
     text-decoration: none;
     color: white; 
 }
+
+#social-link:hover {
+    text-shadow: 0 0 5px rgba(193, 0, 61, 0.747);
+}
