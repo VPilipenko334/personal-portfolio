@@ -12,7 +12,7 @@ const Background = () => {
                 </div>
             </div>
         </div>
-    )
+    
 }
 
 export default Background;

@@ -50,8 +50,7 @@ const AboutMe = () => {
 
             <div className="info-inner">
                 Some of the technologies I really enjoy working with are
-                Ruby on Rails for backend and JavaScript, React and
-                Node.js for front-end frameworks. I also really
+                Ruby on Rails for backend and JavaScript, React for front-end frameworks. I also really
                 enjoy working on with UX/UI and different design
                 elements to make websites beautiful.
             </div>
