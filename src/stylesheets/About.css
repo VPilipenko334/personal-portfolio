@@ -59,7 +59,7 @@ body {
     box-shadow: 0.5px 0.5px 0.5px 0.5px #72717118;
 }
 
-.aboutme-info {
+.info {
     color: #a5f8ff;
     font-weight: bold;
     font-size: 12.5px; 
@@ -69,6 +69,14 @@ body {
     animation: 
         typing 7.5s steps(40, end),
         blink-caret .25s step-end infinite;
+}
+
+#heading2 {
+    color: #e3c0ff;
+}
+
+#heading3 {
+    color: #fe8f86;
 }
 
 @keyframes typing {
@@ -81,9 +89,10 @@ body {
   50% { border-color: orange; }
 }
 
-.about-me-inner {
+.info-inner {
     color: white; 
     font-size: 12.5px;
     overflow: auto;
     margin: 1px; 
 }
+

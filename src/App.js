@@ -2,6 +2,7 @@ import React from 'react';
 import { Routes, Route, Link} from "react-router-dom";
 import './stylesheets/App.css';
 import './stylesheets/About.css';
+import './stylesheets/Projects.css';
 import AboutMe from './components/about_me';
 import Projects from './components/projects';
 import Skills from './components/skills';

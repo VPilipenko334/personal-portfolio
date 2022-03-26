@@ -11,10 +11,10 @@ const AboutMe = () => {
                     <button className="green"></button>
                 </div>
 
-            <div className="aboutme-info">
+            <div className="info" id="heading1">
                 ~/Desktop/Portfolio/About
             </div>
-                <div className="about-me-inner">
+                <div className="info-inner">
                     My name is Veronika Pilipenko and I am a software
                     engineer based in New York City.
 
@@ -31,10 +31,10 @@ const AboutMe = () => {
                     to life at the touch of my fingertips.
                 </div>
 
-            <div className="aboutme-info">
+            <div className="info" id="heading2">
                 ~/Desktop/Portfolio/Hobbies
             </div>
-                <div className="about-me-inner">
+                <div className="info-inner">
 
                     When I am not at my computer, I love to spend
                     time outside. I like to hike, bike, and walk
@@ -44,11 +44,11 @@ const AboutMe = () => {
                     and have been swimming since I was very young.
                 </div>
 
-            <div className="aboutme-info">
+            <div className="info" id="heading3">
                 ~/Desktop/Portfolio/Career
             </div>
 
-            <div className="about-me-inner">
+            <div className="info-inner">
                 Some of the technologies I really enjoy working with are
                 Ruby on Rails for backend and JavaScript, React and
                 Node.js for front-end frameworks. I also really
