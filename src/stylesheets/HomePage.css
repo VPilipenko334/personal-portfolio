@@ -77,6 +77,12 @@ p {
 
 #closing {
     /* margin-left: 5px; */
-    /* color: #38363677; */
-    text-shadow: 0 0 5px rgba(33, 31, 31, 0.61);
+    color: #000000;
+    text-shadow: 0 0 5px rgba(0, 193, 13, 0.747);
+    text-decoration: none;
+}
+
+#closing:hover {
+    color:#000000;
+    text-shadow: 0 0 5px rgba(193, 0, 135, 0.747);
 }
