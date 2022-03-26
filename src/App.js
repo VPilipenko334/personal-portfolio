@@ -3,17 +3,19 @@ import { Routes, Route, Link} from "react-router-dom";
 import './stylesheets/App.css';
 import './stylesheets/About.css';
 import './stylesheets/Projects.css';
+import './stylesheets/HomePage.css';
 import AboutMe from './components/about_me';
 import Projects from './components/projects';
 import Skills from './components/skills';
 import Resume from './components/resume';
 import Contact from './components/contact';
-import Background from './components/background';
+import HomePage from './components/home_page';
 
 function App() {
   return (
     <div className="outer-container">
         <Routes>
+          <Route path="/" element={<HomePage />} />
           <Route path="/about" element={<AboutMe />} />
           <Route path="/projects" element={<Projects />} />
           <Route path="/skills" element={<Skills />} />

@@ -1,0 +1,13 @@
+.homepage-links {
+    text-decoration: none;
+    color: black;
+    background-color: #F0ECF7; 
+    margin: 20px; 
+    padding: 1px; 
+}
+
+.background {
+    background-color: #F0ECF7; 
+    padding: 3px; 
+    box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.2);
+}
