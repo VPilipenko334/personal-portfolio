@@ -4,22 +4,46 @@
     background-color: #F0ECF7; 
     margin: 20px; 
     padding: 1px; 
-    /* box-shadow: 0 0 15px rgba(0,0,0,0.75);
-    clip-path: inset(0px -15px 0px 0px); */
+    /* box-shadow: 0 0 10px rgba(0,0,0,0.25); 
+    clip-path: inset(0px -15px 0px 0px);  */
+    font-size: 12px;
+    text-align: center;
+    font-weight: bold;
 }
 
-.background {
+.tab-links {
+    display: flex;
+    justify-content: space-between;
     background-color: #F0ECF7; 
-    padding: 3px; 
-    box-shadow: 0px 2px 16px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 10px rgba(0,0,0,0.25); 
+    padding: 3px;
 }
-
-/* .outer-homepage-container {
-    display: flex; 
-    justify-content: center;
-    align-items: center;
-} */
 
 .about-me {
     text-align: center;
+}
+
+.socials {
+    margin: 5px; 
+    padding: 5px; 
+    text-align: center;
+}
+
+#social {
+    width: 100px;
+}
+
+.social-link {
+    text-decoration: none;
+    color: white; 
+}
+
+.baby-font {
+    text-align: center;
+}
+
+#closing {
+    margin-left: 5px;
+    /* color: #38363677; */
+    text-shadow: 0 0 5px rgba(33, 31, 31, 0.61);
 }

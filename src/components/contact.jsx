@@ -1,4 +1,5 @@
 import React from "react";
+import { Routes, Route, Link } from "react-router-dom";
 
 const Contact = () => {
 
@@ -14,7 +15,12 @@ const Contact = () => {
                 <br/>
                 phone number: (646)-283-6114
                 <br/>
-                {/* <Contact target="_blank" to={{pathname:"veronika.pilipenko@gmail.com"}}></Contact> */}
+                <button 
+                    className="contact-button"
+                    onClick={() => window.location = 'mailto:veronika.pilipenko@gmail.com'}>
+                    Contact Me
+                </button>
+            
             </div>
         </div>
     )

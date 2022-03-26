@@ -1,4 +1,5 @@
 import React from "react";
+import { Routes, Route, Link } from "react-router-dom";
 
 const AboutMe = () => {
 
@@ -6,7 +7,7 @@ const AboutMe = () => {
         <div className="terminal-outer">
             <div className="terminal-inner">
                 <div className="terminal-tabs">
-                    <button className="red"></button>
+                    <Link to="/"><button className="red"></button></Link>
                     <button className="yellow"></button>
                     <button className="green"></button>
                 </div>
