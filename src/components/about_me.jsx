@@ -10,6 +10,8 @@ const AboutMe = () => {
                     <button className="yellow"></button>
                     <button className="green"></button>
                 </div>
+                
+                hi testing this out 
             </div>
         </div>
     )

@@ -21,6 +21,8 @@ body {
     border-radius: 3%;
     box-shadow: 0px 8px 16px 0px rgba(29, 28, 28, 0.2);
     border-top: 15px solid #f0ecf7;
+    font-family: 'Red Hat Mono', monospace; 
+    color: white; 
 }
 
 .red {
