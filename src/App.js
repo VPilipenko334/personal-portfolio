@@ -9,11 +9,11 @@ import './stylesheets/Resume.css';
 import './stylesheets/Contact.css';
 import './stylesheets/NavBar.css';
 import AboutMe from './components/AboutMe';
-import Projects from './components/Projects1';
-import Skills from './components/Skills1';
-import Resume from './components/Resume1';
-import Contact from './components/Contact1';
-import HomePage from './components/HomePage1';
+import Projects from './components/Projects';
+import Skills from './components/Skills';
+import Resume from './components/Resume';
+import Contact from './components/Contact';
+import HomePage from './components/HomePage';
 
 function App() {
   return (
