@@ -15,20 +15,19 @@ body {
 }
 
 .terminal-inner {
-    height: 375px; 
+    height: 380px; 
     overflow: auto;
-    width: 550px; 
+    width: 555px; 
     background-color: #282a36;
     border-radius: 3%;
     box-shadow: 0px 8px 16px 0px rgba(29, 28, 28, 0.2);
-    /* border-top: 10px solid #f0ecf7; */
     font-family: 'Red Hat Mono', monospace; 
     color: white; 
 }
 
 .red {
-    width: 15px;
-    height: 15px;
+    width: 13px;
+    height: 13px;
     background: #fe5f57;
     border-radius: 50%;
     padding: 5px;
@@ -39,8 +38,8 @@ body {
 }
 
 .yellow {
-    width: 15px;
-    height: 15px;
+    width: 13px;
+    height: 13px;
     background: #febc2f;
     border-radius: 50%;
     padding: 5px;
@@ -50,8 +49,8 @@ body {
 }
 
 .green {
-    width: 15px;
-    height: 15px;
+    width: 13px;
+    height: 13px;
     background: #28c840;
     border-radius: 50%;
     padding: 5px;
@@ -63,12 +62,28 @@ body {
 .aboutme-info {
     color: #a5f8ff;
     font-weight: bold;
-    font-size: 12px; 
+    font-size: 12.5px; 
     overflow: auto;
+    margin: 1px; 
+    margin-top: 3px; 
+    animation: 
+        typing 7.5s steps(40, end),
+        blink-caret .25s step-end infinite;
+}
+
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange; }
 }
 
 .about-me-inner {
     color: white; 
-    font-size: 14px;
+    font-size: 12.5px;
     overflow: auto;
+    margin: 1px; 
 }

@@ -12,7 +12,7 @@ const AboutMe = () => {
                 </div>
 
             <div className="aboutme-info">
-                🐸🤍🚀🧿🤎💰~/Desktop/Portfolio/About
+                ~/Desktop/Portfolio/About
             </div>
                 <div className="about-me-inner">
                     My name is Veronika Pilipenko and I am a software
@@ -32,7 +32,7 @@ const AboutMe = () => {
                 </div>
 
             <div className="aboutme-info">
-                🐸🤍🚀🧿🤎💰~/Desktop/Portfolio/Hobbies
+                ~/Desktop/Portfolio/Hobbies
             </div>
                 <div className="about-me-inner">
 
@@ -45,7 +45,7 @@ const AboutMe = () => {
                 </div>
 
             <div className="aboutme-info">
-                🐸🤍🚀🧿🤎💰~/Desktop/Portfolio/Career
+                ~/Desktop/Portfolio/Career
             </div>
 
             <div className="about-me-inner">
