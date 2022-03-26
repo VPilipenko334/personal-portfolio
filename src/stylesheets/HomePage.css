@@ -11,6 +11,11 @@
     font-weight: bold;
 }
 
+.homepage-links:hover {
+    color: black;
+    text-shadow: 0 0 5px rgba(0, 193, 13, 0.747);
+}
+
 .tab-links {
     display: flex;
     justify-content: space-between;
