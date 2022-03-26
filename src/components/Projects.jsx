@@ -91,9 +91,8 @@ const Projects = () => {
                         favorite things that I've ever built - visually and how it's coded out!
                     </p>
 
-                    <b><i>Made using:</i></b> React, Node.js, Webpack, HTML, CSS<br />
+                    <b><i>Made using:</i></b> React, Node.js, JavaScript, HTML, CSS<br />
 
-                    <p>Oh -- and by the way, I built this entire thing out in less than 24 hours!💖</p>
                 </div>
 
 

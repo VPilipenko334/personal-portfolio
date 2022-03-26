@@ -18,7 +18,7 @@ const Contact = () => {
                         className="banner-link-outer"
                         onClick={() => window.location = 'mailto:veronika.pilipenko@gmail.com'}
                         id="banner-link">
-                        🤎Click here to send me an email🤎
+                        🤎 Click here to send me an email 🤎
                     </div>
                 
                 <div className="contact-div">
