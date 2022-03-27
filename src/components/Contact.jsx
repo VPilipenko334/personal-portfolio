@@ -54,9 +54,9 @@ const Contact = () => {
                         <a href="https://github.com/VPilipenko334" className="social-link" target="_blank">Github.</a>
                         </p>
 
-                    <p className="info-inner">
+                    {/* <p className="info-inner">
                         Goodbye!
-                    </p>
+                    </p> */}
 
                 </div>
             </div>

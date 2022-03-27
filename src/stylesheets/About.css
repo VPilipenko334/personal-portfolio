@@ -74,17 +74,10 @@ body {
     margin: 1px; 
     margin-top: 3px; 
     animation: 
-        typing 7.5s steps(40, end),
+        typing 7s steps(40, end),
         blink-caret .25s step-end infinite;
 }
 
-#heading2 {
-    color: #e3c0ff;
-}
-
-#heading3 {
-    color: #fe8f86;
-}
 
 @keyframes typing {
   from { width: 0 }
@@ -95,6 +88,16 @@ body {
   from, to { border-color: transparent }
   50% { border-color: orange; }
 }
+
+
+#heading2 {
+    color: #e3c0ff;
+}
+
+#heading3 {
+    color: #fe8f86;
+}
+ */
 
 .info-inner {
     color: white; 
