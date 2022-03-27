@@ -7,10 +7,10 @@ body {
 }
 
 .terminal-outer {
-    display: flex; 
-    justify-content: center;
-    align-items: center;
-    margin-top: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
 }
 
 .terminal-tabs { 
