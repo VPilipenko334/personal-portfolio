@@ -1,17 +1,14 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import NavBar from './NavBar'
+import TopBar from "./TopBar";
 
 const Projects = () => {
 
     return (
         <div className="terminal-outer">
             <div className="terminal-inner">
-                <div className="terminal-tabs">
-                    <Link to="/"><button className="red"></button></Link>
-                    <button className="yellow"></button>
-                    <button className="green"></button>
-                </div>
+                    <TopBar/>
                     <NavBar/>
                     <div className="heading-top">Projects</div>
                     
