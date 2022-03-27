@@ -51,7 +51,7 @@ body {
     border: 1px solid #5553530e;
     margin-left: 7px;
     box-shadow: 0.5px 0.5px 0.5px 0.5px #73717118;
-    cursor: pointer; 
+    /* cursor: pointer;  */
 }
 
 .green {
@@ -63,7 +63,7 @@ body {
     border: 1px solid #5553530e;
     margin-left: 7px;
     box-shadow: 0.5px 0.5px 0.5px 0.5px #72717118;
-    cursor: pointer; 
+    /* cursor: pointer;  */
 }
 
 .info {
