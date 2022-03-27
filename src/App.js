@@ -1,13 +1,11 @@
 import React from 'react';
 import { Routes, Route, Link} from "react-router-dom";
-import './stylesheets/App.css';
 import './stylesheets/About.css';
 import './stylesheets/Projects.css';
 import './stylesheets/HomePage.css';
 import './stylesheets/Skills.css';
 import './stylesheets/Resume.css';
 import './stylesheets/Contact.css';
-import './stylesheets/NavBar.css';
 import AboutMe from './components/AboutMe';
 import Projects from './components/Projects';
 import Skills from './components/Skills';
