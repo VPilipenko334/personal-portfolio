@@ -29,7 +29,6 @@ const Projects = () => {
                     &nbsp; &nbsp;
                     <a href="https://inaflash.herokuapp.com/#/" target="_blank" id="link"><i class="fa-solid fa-arrow-up-right-from-square fa-3x" id="social-link"></i></a>
                 </div>
-
                 <br />
 
                 <div className="info" id="heading2">
